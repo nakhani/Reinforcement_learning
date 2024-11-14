@@ -50,9 +50,10 @@ To run the notebooks, you will need to have Python installed along with the nece
 
 3. **Install the required libraries**:
    ```bash
-  Install the required libraries
+   pip install numpy matplotlib jupyter
 
 ## Running the Notebooks
    ```bash
-  Install the required libraries
+   jupyter notebook
+
  
