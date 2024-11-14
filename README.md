@@ -12,8 +12,7 @@ This repository contains various basic reinforcement learning algorithms impleme
   - [Grid World 25](#grid-world-25)
 - [Setup and Installation](#setup-and-installation)
 - [Running the Notebooks](#running-the-notebooks)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -44,3 +43,16 @@ To run the notebooks, you will need to have Python installed along with the nece
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/yourusername/reinforcement-learning-algorithms.git
+   
+2. **Navigate to the project directory**:
+   ```bash
+   cd reinforcement-learning-algorithms
+
+3. **Install the required libraries**:
+   ```bash
+  Install the required libraries
+
+## Running the Notebooks
+   ```bash
+  Install the required libraries
+ 
